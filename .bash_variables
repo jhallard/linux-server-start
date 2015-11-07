@@ -1,0 +1,3 @@
+export CONFIGDIR="$HOME/.config/"
+
+export MPD_PORT="6613"
