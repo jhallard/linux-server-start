@@ -5,6 +5,8 @@ __pycache__/
 # C extensions
 *.so
 
+*.bash_history
+
 # Distribution / packaging
 .Python
 env/
